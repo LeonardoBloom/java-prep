@@ -1,0 +1,6 @@
+java fundamentals
+
+big o's and how to optimize
+code tracing
+concepts and specific terms
+problem solving
