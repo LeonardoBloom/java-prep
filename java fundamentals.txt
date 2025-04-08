@@ -1,5 +1,6 @@
 java fundamentals
 
+sorting algos
 big o's and how to optimize
 code tracing
 concepts and specific terms
