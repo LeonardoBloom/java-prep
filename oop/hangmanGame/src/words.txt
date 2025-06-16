@@ -1,0 +1,10 @@
+helicopter
+video
+coconut
+image
+music
+lemon
+lime
+ruby
+diamond
+money
